@@ -84,16 +84,5 @@ The `Analysis.ipynb` generates:
 - Add lightweight data validation tests (e.g., assert non-negative budgets where present, check date ranges) and a CI workflow that runs core notebook cells or scripts.
 - Consider exposing a small script that runs the integration + preprocessing pipeline headlessly (a Python script or Makefile) to avoid manual notebook execution.
 
-## Contributing
 
-- To propose changes: open an issue describing the change, fork the repo, create a feature branch, update notebooks or code, and submit a PR.
-- When adding data sources or dependencies, update `README.md` and `requirements.txt` accordingly.
 
-## License & Attribution
-
-- Add a `LICENSE` file when publishing (MIT recommended for general sharing).
-- Respect data source terms of use and include attribution for IMDb, Rotten Tomatoes and other sources where required.
-
-## Contact / Author
-
-- Your Name — update this with your GitHub profile or preferred contact method.
