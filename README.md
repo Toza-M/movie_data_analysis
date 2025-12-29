@@ -23,8 +23,3 @@ This project focuses on analyzing movie datasets to extract meaningful insights.
 - Python 3.x
 - Libraries: pandas, numpy, matplotlib, seaborn, etc.
 
-## Author
-- Your Name
-
-## License
-This project is licensed under the MIT License.
